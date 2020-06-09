@@ -1,7 +1,7 @@
 # bank-account-web
 
--React project
--React semantic UI
+* React project
+* React semantic UI
 
 ## Pre-conditions
 
